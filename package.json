@@ -40,7 +40,7 @@
     "togeojson": "0.5.0",
     "tokml": "0.3.0",
     "topojson": "1.6.8",
-    "uglify-js": "2.4.1",
+    "uglify-js": "3.8.0",
     "wellknown": "0.3.1",
     "wkx": "^0.4.1",
     "xtend": "3.0.0"
